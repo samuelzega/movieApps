@@ -26,12 +26,12 @@ The apps will reload if you make edits.<br />
 
 #### `Home`
 
-![alt text](https://github.com/samuelzega/movieApps/screenshoot/1.jpeg)
+![alt text](https://github.com/samuelzega/movieApps/blob/master/screenshoot/1.jpeg?raw=true)
 
 #### `Detail`
 
-![alt text](https://github.com/samuelzega/movieApps/screenshoot/2.jpeg)
+![alt text](https://github.com/samuelzega/movieApps/blob/master/screenshoot/2.jpeg?raw=true)
 
 #### `About`
 
-![alt text](https://github.com/samuelzega/movieApps/screenshoot/3.jpeg)
+![alt text](https://github.com/samuelzega/movieApps/blob/master/screenshoot/3.jpeg?raw=true)
